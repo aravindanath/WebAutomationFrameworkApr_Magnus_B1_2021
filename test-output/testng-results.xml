@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="20972" started-at="2021-04-05T20:40:01 IST" finished-at="2021-04-05T20:40:22 IST">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="20972" started-at="2021-04-05T20:40:01 IST" finished-at="2021-04-05T20:40:22 IST">
+      <class name="testscripts.TC_LGN_001">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testscripts.TC_LGN_001@57baeedf]" name="setup" is-config="true" duration-ms="4972" started-at="2021-04-05T20:40:01 IST" finished-at="2021-04-05T20:40:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC_LGN_001()[pri:0, instance:testscripts.TC_LGN_001@57baeedf]" name="TC_LGN_001" duration-ms="10850" started-at="2021-04-05T20:40:06 IST" finished-at="2021-04-05T20:40:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_LGN_001 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testscripts.TC_LGN_001@57baeedf]" name="close" is-config="true" duration-ms="5129" started-at="2021-04-05T20:40:17 IST" finished-at="2021-04-05T20:40:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testscripts.TC_LGN_001 -->
+      <class name="testscripts.TC_HM_002">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testscripts.TC_HM_002@343f4d3d]" name="setup" is-config="true" duration-ms="4814" started-at="2021-04-05T20:40:01 IST" finished-at="2021-04-05T20:40:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC_HM_002()[pri:0, instance:testscripts.TC_HM_002@343f4d3d]" name="TC_HM_002" duration-ms="9939" started-at="2021-04-05T20:40:06 IST" finished-at="2021-04-05T20:40:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_HM_002 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testscripts.TC_HM_002@343f4d3d]" name="close" is-config="true" duration-ms="5123" started-at="2021-04-05T20:40:16 IST" finished-at="2021-04-05T20:40:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testscripts.TC_HM_002 -->
+    </test> <!-- Regression -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
